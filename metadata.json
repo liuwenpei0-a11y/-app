@@ -1,0 +1,6 @@
+{
+  "name": "Dan-sha-ri Cost Tracker",
+  "description": "A minimalist consumption tracker using Feishu Bitable to calculate cost-per-use and cost-per-day of items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
